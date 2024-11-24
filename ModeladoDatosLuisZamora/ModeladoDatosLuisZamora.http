@@ -1,0 +1,6 @@
+@ModeladoDatosLuisZamora_HostAddress = http://localhost:5278
+
+GET {{ModeladoDatosLuisZamora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
